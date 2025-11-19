@@ -68,7 +68,9 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   <br>
   **Shuhao Qi\***, Wenchun Lin\*, Zejun Hong, Hua Chen, Wei Zhang
   <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
-  [[Video](https://youtu.be/AlnmMoJFpc4)] 
+  [[Video](https://youtu.be/AlnmMoJFpc4)]
+  <div align=center>
+  <img width="50%" height="50%" src="./assets/img/stairclimbing.gif"/>
 
 - **sEMG-based recognition of composite motion with convolutional neural network**
   <br>
@@ -77,7 +79,7 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   Sensors and Actuators, A: Physical (Q1, IF=2.904), 2020.
   [[PDF](./assets/pdf/2020sEMG.pdf)]
   <div align=center>
-  <img width="90%" height="90%" src="./assets/img/sEMG2020.png"/>
+  <img width="70%" height="70%" src="./assets/img/sEMG2020.png"/>
 
 
 - **Recognition of composite motions based on semg via deep learning**
@@ -110,44 +112,6 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
 ## Services
 - Invited Reviewer for CDC, IROS, ICRA, L4DC and TRO, etc.
 
-
-## Selected Projects
-
-### Autonomous Driving
-- **Decision Making for Autonomous Vehicle**(Reinforcemnet Learning)<br>
-Oct. 2021– Present
-  <br>
-We are trying to develop a method to learns high-level driving decisions by imitating low-level control behaviors.
- <br>
-  <div align=center>
-  <img width="60%" height="60%" src="./assets/img/autoDriving.gif"/>
-
-
-### Quadruped Robot
-
-- **Stairway Climbing of Quadruped Robot**(Optimal Control)<br>
-Jun. 2020–Nov. 2020
-  <br>
-We develop a simple yet effective framework tailored for autonomous quadrupedal stair climbing. By exploiting the prior knowledge about the staircase structure, the proposed strategy first extracts the geometric information about the staircase from the depth measurements. Then, the velocity and foothold references during stair climbing are generated via simple optimization algorithms based on the staircase information. Given these references, we use the model predictive control method to generate joint torques to complete the whole stair climbing task. Simulations in MuJoCo and real-world experiments on the real Aliengo robot demonstrate successful autonomous climbing of various staircases with different geometries. 
- <br>
-  <div align=center>
-  <img width="60%" height="60%" src="./assets/img/stairclimbing.gif"/>
-
-
-### sEMG-based Motion Recognition
-
-- **sEMG-based Active Control of Rehabilitation Robot** (Force Control) <br>
-Jan. 2019–Jan. 2020  <br>
-In order to make people participate in rehabilitation exercise actively, I proposed a scenario which can adjust the joint torque of the upper-limb rehabilitation robot according to the amplitude of sEMG signals. [[Video](https://www.youtube.com/watch?v=8iSTeTxN6kQ)]
-
-
-
-- **sEMG-based Motion Recognition** (Deep Learning) <br>
-Jun. 2018–Jan. 2019 <br>
-Compared with currently intricate and limited methods, the method I proposed is much simple, effective and general which processed sEMG signals like the way of processing images via Convolutional Neural Network. Results of experiments show that this method can help people effectively recognize general composite motion, such as handwriting motions and sign language motions.[[Video](https://www.youtube.com/watch?v=5tQSHg5Cdk8)]
-  <br>
-  <div align=center>
-  <img width="90%" height="90%" src="./assets/img/sEMG2020.png"/>
 
 
 
