@@ -40,8 +40,6 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
 ## Publications
 
 
-
-
 - **Risk-Aware Autonomous Driving with Linear Temporal Logic Specifications**
   <br>
   **Shuhao Qi**, Zengjie Zhang, Zhiyong Sun, Sofie Haesaert
@@ -76,7 +74,7 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   <div align=center>
   <img width="50%" height="50%" src="./assets/img/stairclimbing.gif"/>
 
-- **sEMG-based recognition of composite motion with convolutional neural network**
+- **sEMG-based recognition of composite motion with convolutional neural networks**
   <br>
   **Shuhao Qi**, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
   <br>
@@ -86,21 +84,21 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   <img width="70%" height="70%" src="./assets/img/sEMG2020.png"/>
 
 
-- **Recognition of composite motions based on semg via deep learning**
+- **Recognition of composite motions based on sEMG via deep learning**
   <br>
   **Shuhao Qi**, Xingming Wu, Jianhua Wang, Jianbin Zhang
   <br>S
   14th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2019. [[Slides](./assets/pdf/ICIEA.pdf)] 
   <br>
  
-- **Damping vibration analysis of adual-axis precision force sensor based on passive eddy current**
+- **Damping vibration analysis of a dual-axis precision force sensor based on passive eddy current**
   <br>
   Xiantao Sun, Wenjie Chen, Weihai Chen, **Shuhao Qi**, Jun Jiang, Cungang Hu, Jun Tao
   <br>
   Journal of Physics D: Applied Physics, 2020.
   <br>
  
-- **Design and analysis of a large-rangeprecision micromanipulator**
+- **Design and analysis of a large-range precision micromanipulator**
   <br>
   Xiantao Sun, Wenjie Chen, Weihai Chen, **Shuhao Qi**, Wang Li, Cungang Hu, Jun Tao
   <br>
