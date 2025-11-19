@@ -2,10 +2,9 @@
 layout: homepage
 ---
 
-## Research Interests
 
-- **Robot Control and Decision Making:** Optimal Control, Reinforcement Learning
-- **Robot Perception and Artificial Intelligence:** Signal Processing, Patern Recognition, Deep Learning
+
+I am a PhD candidate in the control system group at TU Eindhoven, focusing on **trustworthy decision-making and motion control**. Specifically, my research integrates temporal logic planning with safety-critical control to manage uncertainty and resolve deadlock in multi-agent interactions. The theoretical foundations of my work span control theory, game theory, formal methods, and reinforcement learning, and the application domains include autonomous driving and aerospace systems. I also have hands-on experience with a range of robotic platforms, including autonomous vehicles, legged robots, and rehabilitation robots.
 
 ## Experience
 
@@ -16,31 +15,26 @@ layout: homepage
 
 - **[Oct 2021 - Apr 2022] [Shanghai AI Lab](https://www.shlab.org.cn/)**
   <br>
-  Intern Student
- <br>
-  - Project: Decision Making for Autonomous Driving
+  Research Intern on Reinforcement Learning for Autonomous Driving
+ <br> 
 
 - **[May 2020 - Jul 2021] Southern University of Science and Technology**
   <br>
-  Research Assistant in [CLEAR Lab](https://www.wzhanglab.site/)
- <br>
-  Principal Investigator: [Prof. Wei Zhang](https://www.wzhanglab.site/members/)
-  - Project: Motion Control of Legged Robot 
+  Research Assistant in [CLEAR Lab](https://www.wzhanglab.site/),on Motion Control of Legged Robot 
+  <br>
 
 - **[Sep 2017 - Jan 2020] Beihang University**
   <br>
   M.Eng. in Control Science and Engineering 
   <br> 
-  Advisor: [Prof. Weihai Chen](https://dept3.buaa.edu.cn/szjs/zzjs/dgdzjxsyzx1/js/cwh.htm)
-  <br>
   - Thesis: sEMG-based Extraction of Motion Intention and Assist-As-Needed Control of Rehabilitation Robot
 
 - **[Sep 2013 - Jul 2017] University of Electronic Science and Technology of China**
   <br>
   B.Eng. in Mechanical and Automation Engineering
   <br>
-  - GPA: 3.78/4.00, Rank: 12/280
-  - Thesis: Laser-SLAM based on Iterative Closest Point and Graph Optimization
+  - GPA: 3.78/4.00, Rank: 5%
+  - Thesis: Iterative Closest Point for Laser-based SLAM
   
 
 ## Publications
@@ -80,28 +74,28 @@ layout: homepage
   <br>
   **Shuhao Qi**, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
   <br>
-  Sensors and Actuators, A: Physical (Q1, IF=2.904).
+  Sensors and Actuators, A: Physical (Q1, IF=2.904), 2020.
   [[PDF](./assets/pdf/2020sEMG.pdf)] 
 
 - **Recognition of composite motions based on semg via deep learning**
   <br>
   **Shuhao Qi**, Xingming Wu, Jianhua Wang, Jianbin Zhang
   <br>S
-  14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019). [[Slides](./assets/pdf/ICIEA.pdf)] 
+  14th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2019. [[Slides](./assets/pdf/ICIEA.pdf)] 
   <br>
  
 - **Damping vibration analysis of adual-axis precision force sensor based on passive eddy current**
   <br>
   Xiantao Sun, Wenjie Chen, Weihai Chen, **Shuhao Qi**, Jun Jiang, Cungang Hu, Jun Tao
   <br>
-  Journal of Physics D: Applied Physics.
+  Journal of Physics D: Applied Physics, 2020.
   <br>
  
 - **Design and analysis of a large-rangeprecision micromanipulator**
   <br>
   Xiantao Sun, Wenjie Chen, Weihai Chen, **Shuhao Qi**, Wang Li, Cungang Hu, Jun Tao
   <br>
-  Smart Materials and Structures.
+  Smart Materials and Structures, 2020.
   <br>
   
 ## Awards
