@@ -39,20 +39,7 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
 
 ## Publications
 
-<div style="display: flex; align-items: center;">
 
-  <!-- Left: GIF -->
-  <img src="./assets/img/stairclimbing.gif" style="width: 220px; margin-right: 20px;">
-
-  <!-- Right: Text (NORMAL LEFT ALIGNMENT) -->
-  <div style="text-align: left;">
-    **Paper Title**  
-    This is normal left-aligned text.  
-    It will not be centered.  
-    It will behave like regular Markdown text.
-  </div>
-
-</div>
 
 
 - **Risk-Aware Autonomous Driving with Linear Temporal Logic Specifications**
@@ -79,6 +66,20 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   **Shuhao Qi\***, Zengjie Zhang\*, Sofie Haesaert, Zhiyong Sun
   <br> IEEE Conference on Decision and Control (CDC), 2023.
   [[Video](https://www.youtube.com/watch?v=r1aecBOeDq0)] [[PDF](https://ieeexplore.ieee.org/abstract/document/10383729?casa_token=X6Kgx5bUxm8AAAAA:LblvdfAoAX6hGA-odUvLe7uxMo7v2bq2ZlvsYBSKayr1agWOK1GcDpBy_vh86CkVvfc3Hq7QvA)]
+
+
+<div style="display: flex; align-items: center;">
+  <!-- Left: GIF -->
+  <img src="./assets/img/stairclimbing.gif" style="width: 220px; margin-right: 20px;">
+
+  <!-- Right: Text (NORMAL LEFT ALIGNMENT) -->
+  <div style="text-align: left;">
+    **Perceptive autonomous stair climbing for quadrupedal robots**  
+    **Shuhao Qi\***, Wenchun Lin\*, Zejun Hong, Hua Chen, Wei Zhang
+    <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+  [[Video](https://youtu.be/AlnmMoJFpc4)]
+  </div>
+</div>
 
 - **Perceptive autonomous stair climbing for quadrupedal robots**
   <br>
