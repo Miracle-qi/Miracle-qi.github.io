@@ -2,7 +2,7 @@
 layout: homepage
 ---
 <div style="text-align: justify;">
-I am a PhD candidate in the control system group at TU Eindhoven, focusing on <strong>trustworthy decision-making and motion control</strong>strong>. Specifically, my research integrates temporal logic planning with safety-critical control to manage uncertainty and resolve deadlock in multi-agent interactions. The theoretical foundations of my work span <strong>control theory, game theory, formal methods, and reinforcement learning</strong>strong>, and the application domains include autonomous driving and aerospace systems. I also have hands-on experience with a range of robotic platforms, including autonomous vehicles, legged robots, and rehabilitation robots.
+I am a PhD candidate in the control system group at TU Eindhoven, focusing on <strong>trustworthy decision-making and motion control</strong>strong>. Specifically, my research integrates temporal logic planning with safety-critical control to manage uncertainty and resolve deadlock in multi-agent interactions. The theoretical foundations of my work span <strong>control theory, game theory, formal methods, and reinforcement learning</strong>, and the application domains include autonomous driving and aerospace systems. I also have hands-on experience with a range of robotic platforms, including autonomous vehicles, legged robots, and rehabilitation robots.
 </div>
 
 ## Experience
