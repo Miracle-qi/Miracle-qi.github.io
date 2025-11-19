@@ -46,7 +46,7 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
   [[Video](https://www.youtube.com/watch?v=r5kEMW8oPQE)][[PDF](https://arxiv.org/abs/2409.09769)]
     <div align=center>
-  <img width="50%" height="50%" src="./assets/img/risk.gif" style="clip-path: inset(50px 20px 30px 10px) position:relative"/>
+  <img width="50%" height="50%" src="./assets/img/risk.gif" style="clip-path: inset(50px 50px 50px 50px) position:relative"/>
 
 - **Integrating Opinion Dynamics into Safety Control for Decentralized Airplane Encounter Resolution**
   <br>
