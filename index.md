@@ -46,7 +46,7 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
   [[Video](https://www.youtube.com/watch?v=r5kEMW8oPQE)][[PDF](https://arxiv.org/abs/2409.09769)]
     <div align=center>
-  <img width="50%" height="50%" src="./assets/img/risk.gif" style="clip-path: inset(100px 0px 100px 0px); position:relative;"/>
+  <img width="50%" height="50%" src="./assets/img/risk.gif" style="clip-path: inset(10px 0px 10px 0px); position:relative;"/>
 
 - **Integrating Opinion Dynamics into Safety Control for Decentralized Airplane Encounter Resolution**
   <br>
@@ -67,7 +67,7 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   <br> IEEE Conference on Decision and Control (CDC), 2023.
   [[Video](https://www.youtube.com/watch?v=r1aecBOeDq0)] [[PDF](https://ieeexplore.ieee.org/abstract/document/10383729?casa_token=X6Kgx5bUxm8AAAAA:LblvdfAoAX6hGA-odUvLe7uxMo7v2bq2ZlvsYBSKayr1agWOK1GcDpBy_vh86CkVvfc3Hq7QvA)]
     <div align=center>
-  <img width="50%" height="50%" src="./assets/img/ltl.gif" style="clip-path: inset(100px 0px 100px 0px); position:relative;"/>
+  <img width="50%" height="50%" src="./assets/img/ltl.gif" style="clip-path: inset(100px 100px 100px 100px); position:relative;"/>
 
 
 - **Perceptive autonomous stair climbing for quadrupedal robots**
