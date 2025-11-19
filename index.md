@@ -64,7 +64,7 @@ layout: homepage
   [[Video](https://www.youtube.com/watch?v=r8v7qULA3fM)][[PDF](https://arxiv.org/abs/2411.16911)]
 
 
-  - **Automated formation control synthesis from temporal logic specifications**
+- **Automated formation control synthesis from temporal logic specifications**
   <br>
   **Shuhao Qi\***, Zengjie Zhang\*, Sofie Haesaert, Zhiyong Sun
   <br> IEEE Conference on Decision and Control (CDC), 2023.
