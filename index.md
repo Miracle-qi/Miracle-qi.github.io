@@ -39,6 +39,22 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
 
 ## Publications
 
+<div style="display: flex; align-items: center;">
+
+  <!-- Left: GIF -->
+  <img src="./assets/img/stairclimbing.gif" style="width: 220px; margin-right: 20px;">
+
+  <!-- Right: Text (NORMAL LEFT ALIGNMENT) -->
+  <div style="text-align: left;">
+    **Paper Title**  
+    This is normal left-aligned text.  
+    It will not be centered.  
+    It will behave like regular Markdown text.
+  </div>
+
+</div>
+
+
 - **Risk-Aware Autonomous Driving with Linear Temporal Logic Specifications**
   <br>
   **Shuhao Qi**, Zengjie Zhang, Zhiyong Sun, Sofie Haesaert
