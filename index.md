@@ -75,7 +75,10 @@ I am a PhD candidate in the control system group at TU Eindhoven, focusing on **
   **Shuhao Qi**, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
   <br>
   Sensors and Actuators, A: Physical (Q1, IF=2.904), 2020.
-  [[PDF](./assets/pdf/2020sEMG.pdf)] 
+  [[PDF](./assets/pdf/2020sEMG.pdf)]
+  <div align=center>
+  <img width="90%" height="90%" src="./assets/img/sEMG2020.png"/>
+
 
 - **Recognition of composite motions based on semg via deep learning**
   <br>
@@ -148,22 +151,6 @@ Compared with currently intricate and limited methods, the method I proposed is 
 
 
 
-### Wheeled Mobile Robot
-
-- **Laser-SLAM based on ICP and Graph Optimization** (SLAM)<br>
- Oct. 2016–Jun. 2017
-  <br>
-Motivated by Cartography of Google, I established a scan-to-map Iterative Closest Point (ICP) algorithm based on triangulation and SVD algorithm. Additionally, least square method was used to optimize graph after close-loop detection. Simulation shows that this method achieved excellent performance.
-- **RoboMasters Competition** (Embedded System)<br>
- Mar. 2015–Jul. 2015
-  <br>
-Representing UESTC to participate in this national competition organized by DJI, and taking charge of "Gunner" robot, which can accurately hit the target from a distance with the help of visual positioning.
-
-### Automation Equipment
-- **Automatic Packaging Machine** (Embedded System)<br>
- Feb. 2016–May 2016
-  <br>
-I, as a member of robot team, represented my university to participate in this national competition organized by DJIand took charge of “Gunner” robot, which can accurately hit the target from a distance with the help of visualpositioning.[[Video](https://www.youtube.com/watch?v=MYVdqLGrYbs)]
 
 
 
