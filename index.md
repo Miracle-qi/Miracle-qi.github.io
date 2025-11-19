@@ -9,9 +9,14 @@ layout: homepage
 
 ## Experience
 
-- **[Oct 2021 - Present] [Shanghai AI Lab](https://www.shlab.org.cn/)**
+- **[Sep 2022 - Present] Eindhoven University of Technology**
   <br>
-  Intern Student, waiting for Australian Visa
+  PhD Student in [Control System group](https://www.tue.nl/en/research/research-groups/control-systems)
+ <br>
+
+- **[Oct 2021 - Apr 2022] [Shanghai AI Lab](https://www.shlab.org.cn/)**
+  <br>
+  Intern Student
  <br>
   - Project: Decision Making for Autonomous Driving
 
@@ -40,13 +45,38 @@ layout: homepage
 
 ## Publications
 
+- **Risk-Aware Autonomous Driving with Linear Temporal Logic Specifications**
+  <br>
+  **Shuhao Qi**, Zengjie Zhang, Zhiyong Sun, Sofie Haesaert
+  <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+  [[Video](https://www.youtube.com/watch?v=r5kEMW8oPQE)][[PDF](https://arxiv.org/abs/2409.09769)]
+
+- **Integrating Opinion Dynamics into Safety Control for Decentralized Airplane Encounter Resolution**
+  <br>
+  **Shuhao Qi**, Zhiqi Tang, Zhiyong Sun, Sofie Haesaert
+  <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+  [[Video](https://www.youtube.com/watch?v=7TjrVCJQswM)][[PDF](https://arxiv.org/abs/2508.00156)]
+
+- **Avoiding deadlocks is not enough: Analysis and resolution of blocked airplanes**
+  <br>
+  **Shuhao Qi**, Zengjie Zhang, Zhiyong Sun, Sofie Haesaert
+  <br> https://arxiv.org/abs/2411.16911, 2024.
+  [[Video](https://www.youtube.com/watch?v=r8v7qULA3fM)][[PDF](https://arxiv.org/abs/2411.16911)]
+
+
+  - **Automated formation control synthesis from temporal logic specifications**
+  <br>
+  **Shuhao Qi\***, Zengjie Zhang\*, Sofie Haesaert, Zhiyong Sun
+  <br> IEEE Conference on Decision and Control (CDC), 2023.
+  [[Video](https://www.youtube.com/watch?v=r1aecBOeDq0)] [[PDF](https://ieeexplore.ieee.org/abstract/document/10383729?casa_token=X6Kgx5bUxm8AAAAA:LblvdfAoAX6hGA-odUvLe7uxMo7v2bq2ZlvsYBSKayr1agWOK1GcDpBy_vh86CkVvfc3Hq7QvA)]
+
 - **Perceptive autonomous stair climbing for quadrupedal robots**
   <br>
   **Shuhao Qi\***, Wenchun Lin\*, Zejun Hong, Hua Chen, Wei Zhang
-  <br> The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+  <br> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
   [[Video](https://youtu.be/AlnmMoJFpc4)] 
 
-- **sEMG-based recognition of composite motionwith convolutional neural network**
+- **sEMG-based recognition of composite motion with convolutional neural network**
   <br>
   **Shuhao Qi**, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
   <br>
@@ -81,9 +111,8 @@ layout: homepage
   
   
 ## Services
-- Invited Reviewer for IEEE Sensors Journal
-- Invited Reviewer for ROBIO2018 
- 
+- Invited Reviewer for CDC, IROS, ICRA, L4DC and TRO, etc.
+
 
 ## Selected Projects
 
