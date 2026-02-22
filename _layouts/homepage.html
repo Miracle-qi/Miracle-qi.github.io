@@ -19,64 +19,68 @@
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css>
 
     <link rel="stylesheet" href="./assets/css/style.css">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
-        {% endif %}
+    {% assign linkedin_url = site.linkedin | default: site.LinkedIn %}
+    <header class="site-header">
+      <div class="wrapper header-inner">
+        <a class="site-name" href="#top">{{ site.title }}</a>
+        <nav class="site-nav" aria-label="Section navigation">
+          <a href="#about">About</a>
+          <a href="#experience">Experience</a>
+          <a href="#publications">Publications</a>
+          <a href="#awards">Awards</a>
+          <a href="#services">Services</a>
+        </nav>
+      </div>
+    </header>
 
-        <h1>{{ site.title }}</h1> 
-        <p>
-        {% if site.position %}
-        {{ site.position }}
-        <br>
-        {% endif %}
-        {{ site.affiliation }}
-        <br>
-        {% if site.email %}
-        {{ site.email }}</p>
-        {% endif %}
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      <br>
-
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-
-      </section>
-      <footer>
-        <div class="social-icons">
-
-          {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
+    <main class="wrapper page-main" id="top">
+      <section class="intro-grid">
+        <div class="intro-copy">
+          <p class="eyebrow">Academic Homepage</p>
+          <h1>{{ site.title }}</h1>
+          <p class="intro-role">
+            {% if site.position %}{{ site.position }}, {% endif %}{{ site.affiliation }}
+          </p>
+          {% if site.email %}
+          <p class="intro-email">{{ site.email }}</p>
           {% endif %}
+
+          <nav class="profile-links" aria-label="Profile links">
           {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          <a href="{{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">
+            <i class="ai ai-google-scholar"></i><span>Scholar</span>
           </a>
           {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
+          {% if linkedin_url %}
+          <a href="{{ linkedin_url }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-linkedin-in"></i><span>LinkedIn</span>
           </a>
           {% endif %}
+          {% if site.github_link %}
+          <a href="{{ site.github_link }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-github"></i><span>GitHub</span>
+          </a>
+          {% endif %}
+          </nav>
         </div>
-        <br>
-        <br>
-        <br>
-      </footer>
-    </div>
+        {% if site.avatar %}
+        <div class="intro-avatar"><img src="{{site.avatar}}" alt="Portrait of {{ site.title }}" onContextMenu="return false" /></div>
+        {% endif %}
+      </section>
+
+      <section class="content-panel">
+        {{ content }}
+
+        <footer class="site-footer">
+          <p><small>Built with Jekyll and adapted from the Minimal Light theme.</small></p>
+        </footer>
+      </section>
+    </main>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
