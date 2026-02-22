@@ -1,39 +1,86 @@
-# The Minimal Light Theme
+# Shuhao Qi - Academic Homepage
 
-[![gem](https://img.shields.io/gem/v/minimal-light)](https://rubygems.org/gems/minimal-light)
-[![Gem](https://img.shields.io/gem/dt/jekyll-theme-minimal-academic)](https://rubygems.org/gems/minimal-light)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg)](https://jekyllrb.com/)
-[![Build Status](https://travis-ci.com/yaoyao-liu/minimal-light.svg?branch=master)](https://travis-ci.com/yaoyao-liu/minimal-light)
+Personal academic website for Shuhao Qi, built with Jekyll and hosted via GitHub Pages.
 
-[Demo the theme](https://miracle-qi.github.io/)
- 
+## Live site
 
-### Using with Jekyll
+- Primary: <https://shuhao-qi.net>
+- GitHub Pages: <https://miracle-qi.github.io>
 
-*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
+## Tech stack
 
-Clone this repository:
+- Jekyll (Ruby)
+- Custom layout based on the `minimal-light` theme structure
+- Markdown + HTML sections for page content
 
-```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
-```
-Install and run:
+## Repository structure
+
+- `_config.yml`: site metadata (name, affiliation, email, links, favicon, domain)
+- `index.md`: main homepage content (About, Experience, Publications, Awards, Services)
+- `_layouts/homepage.html`: homepage template
+- `_sass/minimal-light.scss`: main styles
+- `assets/`: static files (images, PDFs, CSS/JS)
+- `script/`: helper scripts for build/validation/release
+
+## Local development
+
+### Prerequisites
+
+- Ruby 3.x (2.7+ usually works with this setup)
+- Bundler (`gem install bundler`)
+
+### Install dependencies
 
 ```bash
 bundle install
-bundle exec jekyll server
 ```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in `_site` folder.
 
+### Run locally
 
+```bash
+bundle exec jekyll serve --livereload
+```
 
-## Acknowledgements
+Open <http://localhost:4000>.
 
-Our project uses the source code from the following repositories:
-* [minimal-light](https://github.com/yaoyao-liu/minimal-light)
+### Build static site
 
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
+```bash
+bundle exec jekyll build
+```
 
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
+Generated output is written to `_site/`.
+
+## Editing guide
+
+- Update profile-level metadata in `_config.yml`.
+- Edit homepage sections directly in `index.md`.
+- Add papers/slides/media under `assets/pdf` and `assets/img`, then link from `index.md`.
+- Adjust layout or typography in `_layouts/homepage.html` and `_sass/minimal-light.scss`.
+
+## Deployment
+
+This repository is configured for GitHub Pages-style deployment.
+
+Typical flow:
+
+```bash
+git add .
+git commit -m "Update homepage"
+git push origin master
+```
+
+If your Pages source is the default branch, pushing to `master` updates the site automatically.
+
+## Notes
+
+- `_site/` and `.jekyll-cache/` are generated during local builds.
+- Keep large media optimized before committing to keep the repository lightweight.
+
+## Credits
+
+This site is based on the `minimal-light` Jekyll theme and adapted for personal academic use.
+
+## License
+
+See `LICENSE`.
